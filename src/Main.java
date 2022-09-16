@@ -3,8 +3,8 @@ import processing.core.PApplet;
 public class Main extends PApplet {
     public static PApplet app;
     private Drawable[] panels;
-    final int NUM_PANELS_HORIZONTAL = 5; // the horizontal quantity of panels
-    final int NUM_PANELS_VERTICAL = 5; // the vertical quantity of panels
+    final int NUM_PANELS_HORIZONTAL = 4; // the horizontal quantity of panels
+    final int NUM_PANELS_VERTICAL = 4; // the vertical quantity of panels
 
     public static void main(String[] args) {
         PApplet.main("Main");

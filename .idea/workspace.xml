@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a0383fe-d016-4abf-8b96-2153eb416614" name="Changes" comment="Example of complete refactored Intro Java Image Processing project, including Drawable and Clickable interfaces, abstract ImageWrapper class, and static PApplet reference.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageProcessing2022-23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/bunny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clickable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContrastedPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Drawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Panel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotatingPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TintedPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661552247900</updated>
     </task>
+    <task id="LOCAL-00001" summary="Example of complete refactored Intro Java Image Processing project, including Drawable and Clickable interfaces, abstract ImageWrapper class, and static PApplet reference.">
+      <created>1663367944117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663367944117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
